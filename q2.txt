@@ -1,0 +1,4 @@
+Merge --> combines branches by creating a new merge commit and preserves the full, branching history, making it safer for shared branches.
+
+Rebase --> rewrites commit history by replaying commits on top of another branch, resulting in a clean, linear history,
+but it should only be used on private branches since it changes commit IDs and can cause issues in team workflows.

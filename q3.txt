@@ -1,0 +1,3 @@
+A conflict --> occurs in Git when changes in the same part of a file are made on two different branches and Git cannot automatically merge them.
+To resolve it, you manually edit the conflicted file to choose or combine the changes, remove Git’s conflict markers , stage the file with `git add`, and then continue the operation with `git commit` (for merge) or `git rebase --continue` (for rebase).
+

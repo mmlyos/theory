@@ -1,0 +1,26 @@
+Git
+Git is a tool(software)
+
+A version control system(VCS):
+Runs locally on your computer.
+Tracks changes in your code over time.
+
+You can use Git without the internet.
+
+Example:
+You edit a file --> commit it --> Git remembers that change.
+
+
+
+GitHub
+GitHub is a service(website/platform)
+A cloud-based hosting platform for git repositories
+stores your git projects online
+
+Adds Collaboration features:
+
+Sharing code
+Pull requests
+Issues
+Code reviews
+CI/CD integrations
