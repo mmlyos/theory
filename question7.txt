@@ -1,0 +1,11 @@
+Q: what is the difference between "git pull" and "git fetch"?
+
+ans:
+
+    the main difference between them is ->
+
+    the "git fetch" gets the changes but save the last changes on your local repository.
+    but
+    the "git pull" gets the changes from repository and immediately changes the last changes on your local repository.
+
+    the git pull is like " git fetch + git merge ".

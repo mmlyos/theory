@@ -1,0 +1,9 @@
+Q: why it's important to write a good commit massage?
+
+ans:
+    writing commit massage have several benefits:
+    1.knowing why the change happens.
+        example: debugg code to support 0 inputs.
+    2.better team working,they can know why others made that commit.
+    3.knowing the reason of making branches.
+        example: making the payment service.

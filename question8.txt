@@ -1,0 +1,10 @@
+Q: what is the diffrence between commit and commit amend?
+
+ans: 
+    the main diffrence between them is that the commit --amend modify the last commit 
+    no new version or commit just a change in the last commit.
+
+    but
+
+    the commit itself creates a new commit.
+    a new version or a new checkpoint to access in future.
