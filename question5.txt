@@ -1,0 +1,4 @@
+Working directly in the main branch can make it hard to review changes 
+and track issues in your codebase. If you're making changes directly in
+the main branch, it's harder to track which changes are related to which
+issue, and it's harder to see the history of your codebase.
